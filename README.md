@@ -1,2 +1,2 @@
-# Collision-detector
-This code detects a collision between 2 squares.
+# p5.play-boilerplate
+Boiler plate for p5.play
