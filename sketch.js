@@ -5,12 +5,12 @@ function setup() {
   createCanvas(800,400);
   fixedRect = createSprite(400, 200, 50, 50);
   fixedRect.shapeColor = "green";
-  fixedRect.debug = true;
+  // fixedRect.debug = true;
 
 
   movingRect = createSprite(500, 300, 50, 50);
   movingRect.shapeColor = "green";
-  movingRect.debug = true;
+  // movingRect.debug = true;
 
 }
 
